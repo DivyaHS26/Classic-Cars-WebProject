@@ -32,8 +32,3 @@ A static website showcasing classic cars, including a video gallery, image galle
 * Modify Styles: Update colors, fonts, or layouts by editing style.css.
 * JavaScript Functions: Add additional functionality or alter the existing interactive elements in script.js.
   
-# License
-This project is licensed under the [MIT License.](https://opensource.org/license/MIT)
-
-# Authors
-[Divya HS](https://github.com/DivyaHS26)
